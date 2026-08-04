@@ -3,5 +3,5 @@ SIC resources
 
 https://poloclub.github.io/transformer-explainer/
 
-https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html
+https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html 
 
